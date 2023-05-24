@@ -2,11 +2,11 @@ const obj = {
     name : "reza",
     family : "abedi",
     age: 28,
-    yaroo :{
-        first : "developer" ,
-        second: {
-            hi: "yes",
-            bye:"no",
+    job :{
+        name : "developer" ,
+        time: {
+            days: "yes",
+            nights:"no",
         } 
     }
 }
